@@ -1,6 +1,20 @@
-# Big-Data-Analysis
-This project demonstrates Big Data Analysis using PySpark to efficiently process and analyze large-scale sales data. The dataset includes information such as product, category, region, sales, and quantity.
+# Big Data Analysis using PySpark
 
-Using PySpark, various operations like data cleaning, filtering, grouping, and aggregation were performed to extract meaningful insights. The project helps in identifying sales trends, top-performing products, and regional performance.
+## Description
+This project demonstrates big data analysis using PySpark to process and analyze large-scale sales data efficiently. It includes operations like filtering, grouping, and aggregation to extract meaningful insights.
 
-This project highlights the use of distributed computing for handling large datasets and provides practical experience in real-world data analysis using PySpark.
+## Features
+- Data cleaning and preprocessing
+- Data aggregation and analysis
+- Sales trend identification
+- Regional performance analysis
+
+## Technologies Used
+- Python
+- PySpark
+- Pandas
+
+## Output
+- Identified top-performing products
+- Analyzed sales by category and region
+- Generated business insights from large datasets
